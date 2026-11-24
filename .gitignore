@@ -1,3 +1,6 @@
 node_modules
 dist
 *.local
+DATABASE_URL=postgres://tablero:tablero@localhost:5432/tablero
+PORT=3001
+CORS_ORIGIN=http://localhost:5173
